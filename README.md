@@ -30,6 +30,15 @@ Tips:
 - Match your ad to your keywords with what customers are thinking when searching for your products or service. Include those search words as keywords in your ad text.
 - Match your ad to your landing page to ensure your ad takes customers right where they can act on.
 
+### Enhance Your Ads with Extensions
+
+- Includes call buttons, consumer ratings, location information, sitelinks, additional text and more.
+
+Benefits:
+- Visibility: By adding more content to your ad, extensions give your ad greater prominence on the search results page and more likely to be noticed.
+- Performance: Ad extensions yield an average of 10-15% increase in click-through-rate for each type of extension implemented.
+- Value: No additional cost to extensions. Same price as normal click when someone call you from your call extension or when someone downloads your app from your app extension.
+
 ## Questions and Answers
 
 1) Which is a benefit of advertising online?
