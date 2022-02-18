@@ -34,7 +34,16 @@ Tips:
 
 1) Which is a benefit of advertising online?
 A: reach people who are likely interested in what you are advertising.
+
 2) Which is a benefit of advertising online with Google Ads?
 A: Can choose how much they spend and only pay when someone clicks their ad.
+
 3) What are the return on investment (ROI) benefits of online advertising campaigns?
 A: Online campaigns are highly measurable and can analyze click data.
+
+4) In order to appeal to customers on mobile devices it is important to?
+A: send to a mobile friendly landing page
+
+5) In running an ad to drive more free gym trail memberships, what could be included in her ad text?
+A: call to action like "sign up for a free trial".
+
