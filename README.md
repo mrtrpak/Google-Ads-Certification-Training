@@ -53,6 +53,47 @@ Benefits:
 
 6) Universal App Campaign: You can easily promote your app across Search, Display and YouTube. Your ads and bids are automatically adjusted to get the most downloads for your app.
 
+### Organize Your Account for Success
+
+- This is important because it helps you make changes quicklyl, target your ads effectively and ultimately reach your advertising goals.
+
+- 3 Layers within Google Ads:
+  - Account: associated with a unique email address, password and billing information.
+  - Campaign: Has its own budget and settings that determine where your ads appear.
+  - Ad Group: Contains a set of similar ads as well as keywords that trigger your ads to show up.
+
+Example:
+          Jackets
+            |
+Peacoat Vest  Blazer  Windbreaker
+    |     |     |         |
+Keywords  KW    KW        KW
+Bids      Bids  Bids      Bids
+
+Best Practices:
+- Create separate campaigns for each product or service category you offer.
+- Create separate ad groups with relevant keywords and bids for each product or service.
+- Use An Ads manager account if you are managing more than 5 accounts.
+
+### Reach Customers with Targeting
+
+- Targeting is all about getting the right message in from of the right person at the right moment.
+- No one size fits all strategy when it comes to targeting
+
+Targeting Options:
+- Demographics: Target ads based on how well your products and services trend with users in certain locations, ages, genders and device types.
+- Keywords: Choose words that are relevant to your product or service to target users making searches using those same terms.
+- Topics: Target one ad to multiple pages about certain topics at once. Topic targeting lets you reach a broad range of pages on the Display Network. Google Ads analyzes web content and considers factors such as text, language, link structure and page structure. It then determines the central themes of each webpage and targets ads based on your topic selections.
+- Placement: Target websites on the Display Network that your customers visit. For example the exact websites or YouTube videos you want your ads to appear in front of.
+- Remarketing: Target users that have already interacted with your ads, website or app so that they'll see your ads more often. These users can be in any stage of conversion, as long as they've visited your site or clicked on your ad before. They can even return to complete a purchase.
+
+Targeting Example:
+Flower shop owner on Mother's Day. This year designed an advertising strategy designed for sons.
+- Uses demographic targeting to target men aged X-Y.
+- Focusing on local delivery: use location targeting to restrict advertising to within 15 miles of her city limits.
+- Customers are intersted in music, art and travel and select these topics to target. With this topic targeting, her ads may be featured on sites and apps with related content.
+- To not loose a customer use a remarketing campaign to re-engage interested customers. If user visits her site without completing a purchase, show ads to them while they browse the web to remind them to place their Mother's Day order while there is still time.
+
 ## Questions and Answers
 
 1) Which is a benefit of advertising online?
