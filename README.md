@@ -128,3 +128,14 @@ A: Reach people who are intersted in similar products/services.
 
 11) Ted's Travel is launching a new app to allow customers to book travel, access their itinerary and keep a travel log during their trips. The main goal is to drive app downoads. Which campaign is recommended?
 A: Universal App Campaign
+
+12) Which client would you advise to use radius targeting?
+A: A client whose service can reach only within a limited scope.
+
+13) Client wants to show ads to people who've visited website before. What feature should be used?
+A: Remarketing Targeting option
+
+14) If you'd like your ads to show on certain sites across the Internet, add websites as?
+A: Placement Targeting option
+
+15)
