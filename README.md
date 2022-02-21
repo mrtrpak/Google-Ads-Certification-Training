@@ -134,11 +134,8 @@ Your ads and bids are automatically adjusted to get the most downloads for your 
 
 **Example:**
           Jackets
-            |
 Peacoat Vest  Blazer  Windbreaker
-    |     |     |         |
-Keywords  KW    KW        KW
-Bids      Bids  Bids      Bids
+Keywords/Bids  KW/B    KW/B        KW/B
 
 **Best Practices:**
 - Create separate campaigns for each product or service category you offer.
