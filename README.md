@@ -16,6 +16,7 @@ similar variant form. It is marked with a plus (+) sign (EX: +blue +suede +shoes
  - As you type your ad, a mobile and desktop version of your ad will appear instantly in the **"Ad preview."**
  - you can provide up to 15 headlines and 4 descriptions for a single responsive search ad.
  - At any given time, up to four extensions can show for a particular query or device.
+ - **Impression:** Counted each time your ad is shown on a search result page or other site
 
 # Table of Contents
 - [Benefits of Google Ads](#Benefits-of-Google-Ads)
