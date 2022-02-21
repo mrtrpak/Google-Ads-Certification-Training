@@ -31,6 +31,7 @@ right customer with the right bid.
 - Optimize the campaign’s ad rotation for clicks or conversion actions and Include three to five ads, 
 and at least three extensions in each ad group are the two best practices are the 2 best practices to 
 **increase Google Ads skill.**
+- **email address, mailing address, and phone number** can be uploaded when creating a **Customer Match strategy.**
 
 # Table of Contents
 - [Benefits of Google Ads](#Benefits-of-Google-Ads)
@@ -86,11 +87,13 @@ service. Include those search words as keywords in your ad text.
 
 - Each extension requires a minimum of 3 items, although Google recommends at least 5.
 
+- Google recommends use at least three extensions for each campaign or ad group.
+
 **Automated Extensions:**
 - Automated extensions show only when they're predicted to improve yor text ad performance.
 
 - **Consumer Ratings:** below search ad based onsurvey data which varies by industry (customer service, fees, selection, etc.).
-- **Seller Ratings:** Displayed as a star rating 1-5. Taken from reputable sources that aggregate business reviews.
+- **Seller Ratings:** Displayed as a star rating 1-5. Taken from reputable sources that aggregate business reviews. **Only fully automated ad extension.**
 - **Previous Visits:** Indicates if visited before, number of times visited and last date visited. 
 - **Dynamic Structured Snippets:** webpage content of info on ads website that Google finds that
 fall into the search category that it deems beneficial to your ad performance.
@@ -275,6 +278,8 @@ keyword list helps you reach only the most intersted people who are more likely 
   in Google Ads reports.
   
 ### Select Your Bid Strategy
+
+- Automated bidding uses **machine learning** to set the right bid for every auction.
 
 1) **Target Search Page Location:** automated bidding strategy to show your ad on the top of the page or on the first page of Google search results.
 2) **Target Impression Share:** automatically sets bids with the goal of showing your ad on the 
