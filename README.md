@@ -10,7 +10,8 @@ tell Google Ads who you want to reach and Google Ads brings your ads to them.
 - **Leads:** to get people to sign-up with email for example
 - **Ad Scheduling:** show ads on certain days or hours
 - **Broad Match Modifier:** shows ads if the keywords show up in the search query in the exact or a 
-similar variant form. It is marked with a plus (+) sign (EX: +blue +suede +shoes)
+similar variant form. It is marked with a plus (+) sign (EX: +blue +suede +shoes). 
+Ad will appear if search term contains some variation of his keyword. 
 - **Dynamic Search Ads:** dynamically generated headlines that target relevant searches based on the user's search (creates new ads automatically). 
     - **Page Feeds:** group web pages under custom labels.
  - As you type your ad, a mobile and desktop version of your ad will appear instantly in the **"Ad preview."**
@@ -32,6 +33,7 @@ right customer with the right bid.
 and at least three extensions in each ad group are the two best practices are the 2 best practices to 
 **increase Google Ads skill.**
 - **email address, mailing address, and phone number** can be uploaded when creating a **Customer Match strategy.**
+- Google Search **campaigns can be tailored to promote company's sales event** by setting campaign start/end date and choosing "leads" as the campaign goal.
 
 # Table of Contents
 - [Benefits of Google Ads](#Benefits-of-Google-Ads)
@@ -88,6 +90,8 @@ service. Include those search words as keywords in your ad text.
 - Each extension requires a minimum of 3 items, although Google recommends at least 5.
 
 - Google recommends use at least three extensions for each campaign or ad group.
+
+- **2 things ad extensions provide** to users: Relevant info & info based on their moment
 
 **Automated Extensions:**
 - Automated extensions show only when they're predicted to improve yor text ad performance.
@@ -178,6 +182,7 @@ Your ads and bids are automatically adjusted to get the most downloads for your 
   - **Account:** associated with a unique email address, password and billing information.
   - **Campaign:** Has its own budget and settings that determine where your ads appear.
   - **Ad Group:** Contains a set of similar ads as well as keywords that trigger your ads to show up.
+  Create default bid amount and keyword list in first Google search Ad group.
 
 **Example:**
           - Jackets -
@@ -261,14 +266,15 @@ keyword list helps you reach only the most intersted people who are more likely 
   Determines the optimal **bids** and average **daily budget** allocations across all of your 
   campaigns to help increase the number of conversions you can achieve.
   **Validation** and **Simulation** are two ways that Performance Planner can help reveal the 
-  possibilities across all your Google Ads campaigns.
+  possibilities across all your Google Ads campaigns. Apply bid adjustments to specific locations.
+  Finds areas of your total budget that could contribute to marketing.
   
 ### Make Your Ads Seen
 
 **Google Ads Auction:**
   - Ads on Google and it's display network are sold by auction.
   - Advertisers bid on keywords in order to serve an ad which, when clicked, leads to their website.
-  - Highest bidder does not always win.
+  - Highest bidder does not always win. (raising the bid amount nas the least-positive impact)
   - 2 factors into consideration to create an AdRank
       - **Quality Score:** expected clickthrough rate, ad relevance and landing page experience.
       - **Bid:** Maximum price an advertiser is willing to pay for an ad click.
