@@ -28,6 +28,9 @@ people who are most relevant to helping you grow your business. Helps send the r
 right customer with the right bid.
 - Simplest Method For Using **Dynamic Search Ads** is Landing pages from standard ad groups.
 - **Affinity Audience:** Reach users based on what they're passionate about and their habits and interests.
+- Optimize the campaign’s ad rotation for clicks or conversion actions and Include three to five ads, 
+and at least three extensions in each ad group are the two best practices are the 2 best practices to 
+**increase Google Ads skill.**
 
 # Table of Contents
 - [Benefits of Google Ads](#Benefits-of-Google-Ads)
