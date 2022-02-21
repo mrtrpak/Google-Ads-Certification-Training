@@ -16,7 +16,11 @@ similar variant form. It is marked with a plus (+) sign (EX: +blue +suede +shoes
  - As you type your ad, a mobile and desktop version of your ad will appear instantly in the **"Ad preview."**
  - you can provide up to 15 headlines and 4 descriptions for a single responsive search ad.
  - At any given time, up to four extensions can show for a particular query or device.
- - **Impression:** Counted each time your ad is shown on a search result page or other site
+ - **Impression:** Counted each time your ad is shown on a search result page or other site.
+ - With affinity audiences, you can reach people based on a holistic picture of their lifestyles, passions, and habits.
+ - In-market audiences allow the opportunity to specifically identify who is in the mindset to buy.
+ - The original remarketing list is automatically excluded from your Similar audiences list. So, if 
+ visitors who are in a Similar audiences list get added to your remarketing list, they'll be removed from the Similar audiences list.
 
 # Table of Contents
 - [Benefits of Google Ads](#Benefits-of-Google-Ads)
@@ -26,7 +30,7 @@ similar variant form. It is marked with a plus (+) sign (EX: +blue +suede +shoes
 - [Types of Campaigns](#Campaign-Types)
 - [Organize Your Account / 3 Layers: Account, Campaign Ad Group / Best Practices](#Organize-Your-Account-for-Success) 
 - [Targeting Customers / Targeting Options / Example](#Reach-Customers-with-Targeting)
-- [Control Searches That Trigger Your Ads / Keyword / Tips For Keyword List / Keyword & Display Planner](#Control-Which-Searches-Trigger-Your-Ads)
+- [Control Searches That Trigger Your Ads / Keyword / Tips For Keyword List / Keyword, Performance & Display Planner](#Control-Which-Searches-Trigger-Your-Ads)
 - [Make Your Ad Seen / Google Ads Auction / AdRank / Quality Score / Bid](#Make-Your-Ads-Seen)
 - [Bidding Strategies / CPA / CPC / ROAS](#Select-Your-Bid-Strategy)
 - [Evaluate Campaign Performance / Best Practices / Clicks / Conversion Rate / ROI formula](#Evaluate-Campaign-Performance)
@@ -189,6 +193,7 @@ For example the exact websites or YouTube videos you want your ads to appear in 
 - **Remarketing:** Target users that have already interacted with your ads, website or app so that 
 they'll see your ads more often. These users can be in any stage of conversion, as long as they've 
 visited your site or clicked on your ad before. They can even return to complete a purchase.
+Minimum number of users a remarketing list must have before being used is 1,000.
 
 **Targeting Example:**
 Flower shop owner on Mother's Day. This year designed an advertising strategy designed for sons.
@@ -235,6 +240,11 @@ keyword list helps you reach only the most intersted people who are more likely 
   - Use the **KEYWORD PLANNER** tool to identify the amount of traffic potential keywords might get.
   - Use the **DISPLAY PLANNER** to see how to reach your target audience based on keywords, websites 
   or interest categories.
+  - Use the **PERFORMANCE PLANNER** to react to ever-changing external factors. Improves return on 
+  investment so you can drive more conversions within your target cost-per-acquisition (CPA). 
+  Recommended that you choose campaigns that drive towards the same goal. Performance Planner works 
+  best by shifting budgets between multiple campaigns and optimizing for the campaigns that are 
+  expected to drive a higher return on investment. Also check monthly since auctions fluctuate a lot.
   
 ### Make Your Ads Seen
 
@@ -253,12 +263,14 @@ keyword list helps you reach only the most intersted people who are more likely 
 ### Select Your Bid Strategy
 
 1) **Target Search Page Location:** automated bidding strategy to show your ad on the top of the page or on the first page of Google search results.
-2) **Target CPA:** Sets bids to help get as many conversions as possible at the target Cost-Per-Acquisition (CPA) you set. Will need to add a piece of code to your website to track conversions on your website.
-3) **Target ROAS:** Automated bidding across multiple campaigns, ad groups and keywords to help achieve an Average Return On Ad Spend (ROAS) equal to the target you set.
-4) **Target Outranking Share:** Automated bidding that help your ads outrank ads from another domain.
-5) **Maximise Clicks:** Automated to help get as many clicks as possible within your budget.
-6) **Enhanced CPC:** Raises your bid for clicks that seem more likely to lead to a sale or conversion.
-7) **Manual CPC:** Bidding method that lets you set your own max CPC for your ads.
+2) **Target Impression Share:** automatically sets bids with the goal of showing your ad on the 
+absolute top of the page, on the top of the page, or anywhere on the page of Google search results.
+3) **Target CPA:** Sets bids to help get as many conversions as possible at the target Cost-Per-Acquisition (CPA) you set. Will need to add a piece of code to your website to track conversions on your website.
+4) **Target ROAS:** Automated bidding across multiple campaigns, ad groups and keywords to help achieve an Average Return On Ad Spend (ROAS) equal to the target you set.
+5) **Target Outranking Share:** Automated bidding that help your ads outrank ads from another domain.
+6) **Maximise Clicks:** Automated to help get as many clicks as possible within your budget.
+7) **Enhanced CPC:** Raises your bid for clicks that seem more likely to lead to a sale or conversion.
+8) **Manual CPC:** Bidding method that lets you set your own max CPC for your ads.
 
 Recommendation for your First Campaign:
 1) Bid Strategy: select "Manual CPC"
