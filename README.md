@@ -142,6 +142,21 @@ Google Ads Auction:
   - Focus on improving quality score to reduce costs and our rank higher bidding competitors. Details 
   about a keyword's quality score can be seen by clicking the white speech bubble next to any keyword 
   in Google Ads reports.
+  
+### Select Your Bid Strategy
+
+1) Target Search Page Location: automated bidding strategy to show your ad on the top of the page or on the first page of Google search results.
+2) Target CPA: Sets bids to help get as many conversions as possible at the target Cost-Per-Acquisition (CPA) you set. Will need to add a piece of code to your website to track conversions on your website.
+3) Target ROAS: Automated bidding across multiple campaigns, ad groups and keywords to help achieve an Average Return On Ad Spend (ROAS) equal to the target you set.
+4) Target Outranking Share: Automated bidding that help your ads outrank ads from another domain.
+5) Maximise Clicks: Automated to help get as many clicks as possible within your budget.
+6) Enhanced CPC: Raises your bid for clicks that seem more likely to lead to a sale or conversion.
+7) Manual CPC: Bidding method that lets you set your own max CPC for your ads.
+
+Recommendation for your First Campaign:
+1) Bid Strategy: select "Manual CPC"
+2) Default Bid: Enter "$1"
+3) Budget: Enter "$20" a day
 
 ## Questions and Answers
 
@@ -205,4 +220,7 @@ A: $1.01 (with same quality score it will set the cost just above the next highe
 20) What are the 3 components of Quality Score?
 A: Ad relevance, Landing page experience, Expected Clickthrough Rate (CTR)
 
-21)   
+21) Conversion Tracking helps you improve the Return On Investment (ROI) from your online ad b/c?
+A: Shows syou which ads lead to customer actions that have value for your business.
+
+22)    
