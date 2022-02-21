@@ -252,6 +252,10 @@ keyword list helps you reach only the most intersted people who are more likely 
   Recommended that you choose campaigns that drive towards the same goal. Performance Planner works 
   best by shifting budgets between multiple campaigns and optimizing for the campaigns that are 
   expected to drive a higher return on investment. Also check monthly since auctions fluctuate a lot.
+  Determines the optimal **bids** and average **daily budget** allocations across all of your 
+  campaigns to help increase the number of conversions you can achieve.
+  **Validation** and **Simulation** are two ways that Performance Planner can help reveal the 
+  possibilities across all your Google Ads campaigns.
   
 ### Make Your Ads Seen
 
