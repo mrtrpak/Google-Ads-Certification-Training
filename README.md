@@ -4,6 +4,9 @@
 
 Online advertising tool that helps businesses connect with their customers. You create your online ad, tell Google Ads who you want to reach and Google Ads brings your ads to them.
 
+# Table of Contents
+[Benefits of Google Ads](#Benefits-of-Google-Ads)
+
 ### Benefits of Google Ads
 
 - Sophisticated targeting. Reach people who are likely interested in what your're advertising. Use keywords, location, demographics and more to target your campaigns to the right people.
@@ -158,6 +161,26 @@ Recommendation for your First Campaign:
 2) Default Bid: Enter "$1"
 3) Budget: Enter "$20" a day
 
+### Evaluate Campaign Performance
+
+- Once campaign has been running for a while, measure your ad performance by analyzing account, campaign and ad group information using Google Ads reports and metrics.
+
+Best Practices to Evaluate Performance:
+- for campaign performance, check the Campaign screen for a shampshot into overall campaign performance.
+- For granular perspective, view details on how specific ads in each ad groups are doing.
+- Keep check-ins super efficient by looking at the same stats routinely.
+
+Key Metrics:
+- Clicks: how many clicks your ad has recieved. Clickthrough Rate (CTR) shows percentage who saw the add and clicked on it.
+- Conversions: How many people clicked your ad and did something you value. Such as purchase, sign-up, phone call or download.
+- Cost Per Conversion (CPC): How much each ad conversion costs you. Also Cost Per Acquisition (CPA)
+- Conversion Rate: How many conversions on your site resulted from ad click.
+
+What is the Return On Investment for my ads?
+- ROI tells you how effective your ad spend is by showing you how much return it's bringing. It is calculated with (Profit - Cost) / Cost
+- Example: $1,200 in sales for a $600 product to make and advertising cost was $200
+ROI = [$1,200 - ($600 + $200)] / ($600 + $200) = 50% 
+
 ## Questions and Answers
 
 1) Which is a benefit of advertising online?
@@ -223,4 +246,11 @@ A: Ad relevance, Landing page experience, Expected Clickthrough Rate (CTR)
 21) Conversion Tracking helps you improve the Return On Investment (ROI) from your online ad b/c?
 A: Shows syou which ads lead to customer actions that have value for your business.
 
-22)    
+22) To increase the number of people visiting website from analyzing the data for the Search campaign, which metric do you want to improve the most?
+A: Clickthrough Rate (CTR)
+
+23) Which statistic indicates how often a click has led to a conversion?
+A: Conversion Rate
+
+24) Ads cost is $100 per week. To see if ad investment is paying off what additional info do you need to calculate her Return On Investment (ROI)?   
+A: Cost to make product and Profit     
