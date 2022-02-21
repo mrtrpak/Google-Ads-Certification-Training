@@ -51,7 +51,7 @@ and see the sales your webiste is generating as a result of your ads.
 ### Create Effective Text Ads
 
 - Simplest online ad that Google Ads offers
-- 3 parts required: Headline, URL and description
+- 3 parts required: Headline, URL and descriptionds
 
 - **Headline Component:** allows up to 30 characters each for 3 optional fields.
 - **URL Component:** allows up to 15 characters each for 2 optional fields.
@@ -69,20 +69,24 @@ service. Include those search words as keywords in your ad text.
 
 - Includes call buttons, consumer ratings, seller ratings, location information, sitelinks, additional text,  Google+ and more.
 
+- Each extension requires a minimum of 3 items, although Google recommends at least 5.
+
 **Automated Extensions:**
 - Automated extensions show only when they're predicted to improve yor text ad performance.
 
 - **Consumer Ratings:** below search ad based onsurvey data which varies by industry (customer service, fees, selection, etc.).
 - **Seller Ratings:** Displayed as a star rating 1-5. Taken from reputable sources that aggregate business reviews.
 - **Previous Visits:** Indicates if visited before, number of times visited and last date visited. 
-- **Dynamic Structured Snippets:** webpage content of+ info on ads website that Google finds that
+- **Dynamic Structured Snippets:** webpage content of info on ads website that Google finds that
 fall into the search category that it deems beneficial to your ad performance.
 - **Dynamic Sitelinks:** links to added pages on website below main link based on popular web pages 
 or links to pages related to search query. Can be done manually for better control over displayed links.
 - **Dynamic Callouts:** highlights useful details about your business, products and/or services. 
 Can also be done manually and manual will override dynamic created ones.
 
+
 **Extensions:** CHAR = characters
+
 - **Callout Extension:** Highlight key info and unique selling points. Include additional information
 about your business or its products and services. Offer an added 25 chars that cannot be clicked. 
 
@@ -94,6 +98,29 @@ Google requires at least 2 for them to appear on your ad and how they appear dep
 category header followed by values and each has a max limit of 25 char (Google recommends 12 for phone).
 
 - **Call Extensions:**  Expected leads via calls or call centers removing the need to manually dial the number. 
+
+- **Location Extension:** Physical address and can also feature phone number, hours of operation and a 
+map marker to determine distance from business. Excellent for "brick and mortar est." 
+
+- **Price Extension:** Shows transparence about pricing to attract clicks b/c they are accepting of 
+your pricing. Can include a header & 25 char each (Google recommends 12 char limit for mobile.
+
+- **App Extension:** Little install buttons only for searches on mobile and tablet devices for 
+increased visibility. Direct install for easy engagement from the user and directed to phone's 
+corrsponding app store.
+
+- **Promotion Extionsion:** Highlight bargains and promotions based on monetary or percentage discounts. 
+Will appear under your ad with a price-tag icon. Can display offer dates, promotion codes and up to 
+20 char for added info. This acts as a conversion shortcut. User navigated straight to promotion.
+
+- **Lead Form Extension [BETA]:** Attach lead form to mobile search ads to collect contact info from 
+them directly. This encourages conversion with automated info filled in for the user with Google info.
+The Leads are stored by Google up to 30 days and downloaded via CSV file. Thusly used as either 
+marketing calls or remarketing lists to re-engage user for conversions.
+
+- **Image Extension [BETA]:** Allows advertisers to insert a complementary image next to their search ads.
+Accepts both square and landscape images however a square is mandatory and landscape is optional.
+Recommended pixel size is 1200x1200 for square 1200x628 for landscape and ratio of 1.91:1.
 
 **Benefits:**
 - Visibility: By adding more content to your ad, extensions give your ad greater prominence on the 
