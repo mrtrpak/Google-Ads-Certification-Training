@@ -21,6 +21,13 @@ similar variant form. It is marked with a plus (+) sign (EX: +blue +suede +shoes
  - In-market audiences allow the opportunity to specifically identify who is in the mindset to buy.
  - The original remarketing list is automatically excluded from your Similar audiences list. So, if 
  visitors who are in a Similar audiences list get added to your remarketing list, they'll be removed from the Similar audiences list.
+- layering an **affinity audiece** with a **broad keyword targeting** campaign helps you Ensure your ads 
+are only seen by people who have demonstrated a qualified interesting your service and/or product(s).
+- **Audience solutions** can boost your campaigns' performance because it helps you focus on the 
+people who are most relevant to helping you grow your business. Helps send the right message to the 
+right customer with the right bid.
+- Simplest Method For Using **Dynamic Search Ads** is Landing pages from standard ad groups.
+- **Affinity Audience:** Reach users based on what they're passionate about and their habits and interests.
 
 # Table of Contents
 - [Benefits of Google Ads](#Benefits-of-Google-Ads)
