@@ -5,7 +5,18 @@
 Online advertising tool that helps businesses connect with their customers. You create your online ad, tell Google Ads who you want to reach and Google Ads brings your ads to them.
 
 # Table of Contents
-[Benefits of Google Ads](#Benefits-of-Google-Ads)
+- [Benefits of Google Ads](#Benefits-of-Google-Ads)
+- [Where Ads are seen / Search and Display Network](#Where-Customers-See-Your-Ads)
+- [Create Effective Text Ads / 3 Required Parts / Tips](#Create-Effective-Text-Ads)
+- [Ad Extensions and the Benefits](#Enhance-Your-Ads-with-Extensions)
+- [Types of Campaigns](#Campaign-Types)
+- [Organize Your Account / 3 Layers / Best Practices](#Organize-Your-Account-for-Success) 
+- [Targeting Customers / Targeting Options / Example](#Reach-Customers-with-Targeting)
+- [Control Searches That Trigger Your Ads / Keyword / Tips For Keyword List / Keyword & Display Planner](#Control-Which-Searches-Trigger-Your-Ads)
+- [Make Your Ad Seen / Google Ads Auction / AdRank / Quality Score / Bid](#Make-Your-Ads-Seen)
+- [Bidding Strategies / CPA / CPC / ROAS](#Select-Your-Bid-Strategy)
+- [Evaluate Campaign Performance / Best Practices / Clicks / Conversion Rate / ROI formula](#Evaluate-Campaign-Performance)
+- [Questions and Answers](#Questions-and-Answers)
 
 ### Benefits of Google Ads
 
