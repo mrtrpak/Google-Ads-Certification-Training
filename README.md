@@ -94,8 +94,10 @@ about your business or its products and services. Offer an added 25 chars that c
 products or services using an added header up to 25 char & 2 lines of description 25 char each. 
 Google requires at least 2 for them to appear on your ad and how they appear depends on device.
 
-- **Structed Snippet Extension:** Highlight features of your products or services. Is made up of 
-category header followed by values and each has a max limit of 25 char (Google recommends 12 for phone).
+- **Structed Snippet Extension:** Highlight features of your products or services.  Preview of the 
+nature and range of your products and services, before they click on your ad with specific info about 
+what you are offering before visiting. Is made up of category header followed by values and each has a 
+max limit of 25 char (Google recommends 12 for phone).
 
 - **Call Extensions:**  Expected leads via calls or call centers removing the need to manually dial the number. 
 
