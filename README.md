@@ -133,9 +133,9 @@ Your ads and bids are automatically adjusted to get the most downloads for your 
   - **Ad Group:** Contains a set of similar ads as well as keywords that trigger your ads to show up.
 
 **Example:**
-          Jackets
-Peacoat Vest  Blazer  Windbreaker
-Keywords/Bids  KW/B    KW/B        KW/B
+          - Jackets -
+- Peacoat - Vest - Blazer - Windbreaker -
+- Keywords/Bids - KW/B - KW/B - KW/B
 
 **Best Practices:**
 - Create separate campaigns for each product or service category you offer.
