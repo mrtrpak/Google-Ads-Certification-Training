@@ -33,7 +33,7 @@ right customer with the right bid.
 - Simplest Method For Using **Dynamic Search Ads** is Landing pages from standard ad groups.
 - **Affinity Audience:** Reach users based on what they're passionate about and their habits and interests.
 - Optimize the campaign’s ad rotation for clicks or conversion actions and Include three to five ads, 
-and at least three extensions in each ad group are the two best practices are the 2 best practices to 
+and at least three extensions in each ad group are the 2 best practices to 
 **increase Google Ads skill.**
 - **email address, mailing address, and phone number** can be uploaded when creating a **Customer Match strategy.**
 - Google Search **campaigns can be tailored to promote company's sales event** by setting campaign start/end date and choosing "leads" as the campaign goal.
