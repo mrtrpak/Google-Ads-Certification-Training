@@ -6,6 +6,9 @@ Online advertising tool to help businesses connect with their customers. You cre
 tell Google Ads who you want to reach and Google Ads brings your ads to them.
 
 **3 Core Principles:** Relevance, Control and Results
+- **Relevance:** helps you connect with the right people, at the right time with the right message.
+- **Control:** complete control over your budget by month day and per ad.
+- **Results:** pay only for results like clicks. Easy to see how your ad is performing.
 
 - **Leads:** to get people to sign-up with email for example
 - **Ad Scheduling:** show ads on certain days or hours
