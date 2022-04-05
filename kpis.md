@@ -60,4 +60,3 @@ next month or going forward.
 
 - Can help significantly reduce your costs.
 - 3 Core Elements: 1) Landing page experience 2) Ad relevance 3) Expected CTR
-- 
